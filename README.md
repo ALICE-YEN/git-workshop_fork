@@ -18,11 +18,11 @@
 | echo   |     |寫入檔案|echo xxx > 1.txt xxx寫入1.txt(覆蓋) echo xxx >> 1.txt 1.txt xxx寫入1.txt(追加最後一行)
 
 
-參數的意義，不同指令會不一樣，但通常會是這樣
-`-a` ==> all   全部
-`-f` ==> force 強制
-`-r` ==> recursive 遞迴
-`-l` ==> long 查看完整名稱
+參數的意義，不同指令會不一樣，但通常會是這樣   
+`-a` ==> all   全部   
+`-f` ==> force 強制    
+`-r` ==> recursive 遞迴   
+`-l` ==> long 查看完整名稱   
 **以上參數供Mac/Linux參考**
 
 
