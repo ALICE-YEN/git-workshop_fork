@@ -15,7 +15,7 @@
 |type    | cat    | 尋找顯示檔案內容    |
 | cd `..`|        |前一頁|
 | cd . > b.txt|        |新增b.txt檔|
-| echo   |     |寫入檔案|echo xxx > 1.txt xxx寫入1.txt(覆蓋) echo xxx >> 1.txt 1.txt xxx寫入1.txt(追加最後一行)
+| echo   |     |寫入檔案|echo xxx > 1.txt xxx寫入1.txt(覆蓋)    echo xxx >> 1.txt  xxx寫入1.txt(追加最後一行)
 
 
 參數的意義，不同指令會不一樣，但通常會是這樣   
@@ -53,8 +53,8 @@ https://reurl.cc/6Egp3Z
 
 
 
-詳細 git操作: 
-https://github.com/hellojs-tw/git-101/blob/master/SUMMARY.md
+詳細 git操作:    
+https://github.com/hellojs-tw/git-101/blob/master/SUMMARY.md   
 https://gitbook.tw/chapters/github/pull-from-github
 ```
 git log <檔名>  查看特定檔案的紀錄
@@ -70,6 +70,14 @@ git blame test.txt 查看內容是誰編寫的
 參考資料
 https://hackmd.io/Ns0AuMFtROOT9E0oSujQ7A?both
 ```
+
+## Nodejs簡介
+**Node.js**
+- 不是程式語言
+- 不是框架
+- 讓javascript可以在伺服器上執行，不須透過瀏覽器
+- 使用google V8 js引擎
+
 ## 心得
-老師上課非常清楚，很扎實，又很有耐心幫忙解決問題，有讓我事半功倍的效果
+老師上課非常清楚，很扎實解釋js的練習題，又很有耐心幫忙解決問題，才能讓我有這麼快的進步，
 雖然在講指令的時候，身為windows的使用者的我有一度錯亂，
